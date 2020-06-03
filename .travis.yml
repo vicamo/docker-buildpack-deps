@@ -47,6 +47,7 @@ env:
   - VERSION=debian/sid/powerpcspe
   - VERSION=debian/sid/ppc64
   - VERSION=debian/sid/ppc64el
+  - VERSION=debian/sid/riscv64
   - VERSION=debian/sid/s390x
   - VERSION=debian/sid/sh4
   - VERSION=debian/sid/sparc64
